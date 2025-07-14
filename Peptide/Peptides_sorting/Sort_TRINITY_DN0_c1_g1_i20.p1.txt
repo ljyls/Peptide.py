@@ -1,0 +1,2 @@
+Sequence	# PSMs	Abundance	Sequence_length	# PSMs_sort	Sequence_length_sort	Abundance_sort	Master_accession	Positions in Proteins	Quan Info	Modifications	Labels
+AVNIPFKVHFRCKAAFC	5	16347546.84375	17	1-5	1-17	1-1.6e+07	TRINITY_DN0_c1_g1_i20.p1	TRINITY_DN603_c0_g1_i1.p1_ORF1 [54-70]; TRINITY_DN603_c0_g1_i3.p1_ORF2 [51-67]; TRINITY_DN0_c1_g1_i20.p1 [54-70]; TRINITY_DN603_c0_g1_i1.p1_ORF3 [47-63]; TRINITY_DN603_c0_g1_i1.p1_ORF2 [51-67]	1-E^2-E	1-2xDehydro [C12(100); C17(100)]^2-1xDeamidated [N3(100)];2xDehydro [C12(100); C17(100)]	1-1.6e+07|1-5|1-17|1-E^2-E

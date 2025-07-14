@@ -1,0 +1,2 @@
+Sequence	# PSMs	Abundance	Sequence_length	# PSMs_sort	Sequence_length_sort	Abundance_sort	Master_accession	Positions in Proteins	Quan Info	Modifications	Labels
+ATALGIPPRGFLPIVNKFKD	1	564144.875	20	1-1	1-20	1-5.6e+05	TRINITY_DN25_c0_g1_i2.p1_ORF1	TRINITY_DN25_c0_g1_i2.p1_ORF1 [48-67]	1-E	1-N	1-5.6e+05|1-1|1-20|1-E

@@ -1,0 +1,3 @@
+Sequence	# PSMs	Abundance	Sequence_length	# PSMs_sort	Sequence_length_sort	Abundance_sort	Master_accession	Positions in Proteins	Quan Info	Modifications	Labels
+GIFSILKIATKLIGKTLAKAAGKAGAELAACKAANQC	2	20099907.0	37	1-2	1-37	1-2.0e+07	TRINITY_DN96_c0_g2_i2.p1	TRINITY_DN96_c0_g2_i2.p1 [44-80]	1-E^2-E	1-2xDehydro [C31(100); C37(100)]^2-1xDeamidated [N35(100)];2xDehydro [C31(100); C37(100)]	1-2.0e+07|1-2|1-37|1-E^2-E
+GIFSILKIA	1	1841005.375	9	2-1	2-9	2-1.8e+06	TRINITY_DN96_c0_g2_i2.p1	TRINITY_DN96_c0_g2_i2.p1 [44-52]; TRINITY_DN96_c0_g2_i1.p1 [44-52]	3-E	3-N	2-1.8e+06|2-1|2-9|3-E
